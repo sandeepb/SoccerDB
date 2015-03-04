@@ -1,0 +1,89 @@
+/* CSS Document */
+		
+table
+	{
+		color:#0033FF;
+		font-family:"Arial", Times, serif;
+		font-size:medium;
+		font-style:normal;
+		font-weight:normal;
+	}
+
+.noerror
+	{
+		color:#0033FF;
+		font-family:"Arial", Times, sans-serif;
+		font-size:small;
+		font-style:normal;
+		font-weight:bold;
+	}
+
+.error
+	{
+		color: red;
+		font-family:"Arial", Times, sans-serif;
+		font-size:small;
+		font-style:normal;
+		font-weight:bold;
+	}
+
+#navigation{
+		position: absolute;
+		top: 170;
+		left: 0;	
+		width: 10em;
+		background-color:black
+	}
+
+#titleimage
+	{
+		position: absolute;
+		top: 0;
+	        left: 0;	
+	}
+#content
+	{
+		position: absolute;
+		top: 210;
+		left : 200;
+	}
+.menuitem
+	{
+		font-size:medium;
+		font-family:"Arial", Times, sans-serif;
+		font-weight:bold
+	}
+
+.pointstable
+	{
+		font-size:15;
+		font-family:"Arial", Times, sans-serif;
+		font-weight:bold;
+		text-transform: uppercase;
+		background-color:gold;
+		color: blue
+		
+		
+	}
+#sidebar
+	{
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 10em;
+		background-color:black;
+		color:gold;
+		font-size:10
+		font-style:normal;
+		font-weight:bold;
+		font-family:"Arial", Times, serif;
+		text-transform: uppercase
+	}
+.small
+	{
+		color: black;
+		font-size:13;
+		font-style:normal;
+		font-weight:bold;
+		font-family:"Times New Roman", Times, serif
+	}

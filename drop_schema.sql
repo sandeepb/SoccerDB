@@ -1,0 +1,14 @@
+drop table user_favorite_team ;
+drop table goalkeeper_performance ;
+drop table goalkeeper_participation ;
+drop table goals ;
+drop table match_participation ;
+drop table ticket ;
+drop table user_account;
+drop table stadium ;
+drop table coach ;
+drop table goalkeeper ;
+drop table non_goalkeeper ;
+drop table match ;
+drop table team ;
+commit;
